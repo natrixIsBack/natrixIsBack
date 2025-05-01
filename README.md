@@ -5,30 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=natrixIsBack&color=9f4ed4" alt="Profile Views" />
 </p>
 
-<h2 style="color:#e0b3ff;">🧠 Languages I use</h2>
 
-<ul>
-  <li>💜 JavaScript [Node JS]</li>
-  <li>💜 Python</li>
-  <li>💜 HTML / CSS</li>
-  <li>💜 C / C++</li>
-  <li>💜 Bash / Shell</li>
-  <li>💜 SQL</li>
-  <li>💜 C#</li>
-  <li>💜 Java</li>
-  <li>💜 Go</li>
-  <li>💜 PHP</li>
-  <li>💜 Swift</li>
-  <li>💜 Kotlin</li>
-  <li>💜 Scala</li>
-  <li>💜 R</li>
-  <li>💜 MATLAB</li>
-  <li>💜 PowerShell</li>
-  <li>💜 Assembly</li>
-  <li>💜 Haskell</li>
-  <li>💜 Elixir</li>
-  <li>💜 Lua</li>
-</ul>
 
 <h2 style="color:#e0b3ff;">📊 My GitHub statistics</h2>
 
@@ -70,17 +47,37 @@
   <img src="https://img.shields.io/badge/Notion-purple?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </p>
 
-<h2 style="color:#e0b3ff;">🧬 Contribution card</h2>
-<p>
-  <img src="https://github.com/natrixIsBack/natrixIsBack/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<h2 style="color:#e0b3ff;">🧠 Languages I use</h2>
+
+<ul>
+  <li>💜 JavaScript [Node JS]</li>
+  <li>💜 Python</li>
+  <li>💜 HTML / CSS</li>
+  <li>💜 C / C++</li>
+  <li>💜 Bash / Shell</li>
+  <li>💜 SQL</li>
+  <li>💜 C#</li>
+  <li>💜 Java</li>
+  <li>💜 Go</li>
+  <li>💜 PHP</li>
+  <li>💜 Swift</li>
+  <li>💜 Kotlin</li>
+  <li>💜 Scala</li>
+  <li>💜 R</li>
+  <li>💜 MATLAB</li>
+  <li>💜 PowerShell</li>
+  <li>💜 Assembly</li>
+  <li>💜 Haskell</li>
+  <li>💜 Elixir</li>
+  <li>💜 Lua</li>
+</ul>
 
 <h2 style="color:#e0b3ff;">⚡ GitHub Streak</h2>
 <p>
   <img src="https://streak-stats.demolab.com/?user=natrixIsBack&theme=purpledark" alt="GitHub Streak" />
 </p>
 
-<h2 style="color:#e0b3ff;">📅 Activité récente</h2>
+<h2 style="color:#e0b3ff;">📅 Recent activity</h2>
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=natrixIsBack&theme=react-dark&hide_border=true&area=true&bg_color=2e003e&color=ffb3ff&line=bb86fc&point=ffffff" alt="Graphique activité GitHub" />
 </p>
