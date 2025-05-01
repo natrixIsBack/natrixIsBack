@@ -1,10 +1,12 @@
-<h1 align="center" style="color:#bb86fc;">🫐 NATRIX 👾</h1>
-<p align="center" style="color:#d0aaff;">Developer with a passion for technology, clean code and efficiency.</p>
-<p align="left">
+<p align="center">
   <a href="#footer" title="Go down">
     <img src="https://img.shields.io/badge/Go to bottom of page-%F0%9F%94%BD-purple?style=for-the-badge" alt="Go to bottom of page">
   </a>
 </p>
+<div id="top"></div>
+
+<h1 align="center" style="color:#bb86fc;">🫐 NATRIX 👾</h1>
+<p align="center" style="color:#d0aaff;">Developer with a passion for technology, clean code and efficiency.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=natrixIsBack&color=9f4ed4" alt="Profile Views" />
@@ -94,4 +96,10 @@
 <p align="center" style="color:#aaa;">
   Proudly powered by natrix for Github. 2025 💜 <br />
   &copy; 2025 natrixIsBack
+</p>
+
+<p align="center">
+  <a href="#top" title="Go up">
+    <img src="https://img.shields.io/badge/Go to top of page-%F0%9F%94%BD-purple?style=for-the-badge" alt="Go to top of page">
+  </a>
 </p>
