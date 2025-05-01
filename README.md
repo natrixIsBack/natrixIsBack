@@ -2,7 +2,7 @@
 <p align="center" style="color:#d0aaff;">Developer with a passion for technology, clean code and efficiency.</p>
 <p align="right">
   <a aling="center" href="#footer" title="Go down">
-    <img src="https://img.shields.io/badge/Aller%20en%20bas-%F0%9F%94%BD-purple?style=for-the-badge" alt="Go to bottom of page">
+    <img src="https://img.shields.io/badge/Go&to&bottom&of&page-%F0%9F%94%BD-purple?style=for-the-badge" alt="Go to bottom of page">
   </a>
 </p>
 
