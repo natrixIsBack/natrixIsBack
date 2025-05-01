@@ -1,5 +1,10 @@
 <h1 align="center" style="color:#bb86fc;">🫐 NATRIX 👾</h1>
 <p align="center" style="color:#d0aaff;">Developer with a passion for technology, clean code and efficiency.</p>
+<p align="right">
+  <a href="#footer" title="Go down">
+    <img src="https://img.shields.io/badge/Aller%20en%20bas-%F0%9F%94%BD-purple?style=for-the-badge" alt="Aller en bas">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=natrixIsBack&color=9f4ed4" alt="Profile Views" />
@@ -84,6 +89,7 @@
 
 
 <hr />
+<div id="footer"></div>
 
 <p align="center" style="color:#aaa;">
   Proudly powered by natrix for Github. 2025 💜 <br />
