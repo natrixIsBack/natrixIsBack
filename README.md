@@ -101,6 +101,6 @@
 
 <p align="center">
   <a href="#top" title="Go up">
-    <img src="https://img.shields.io/badge/Go to top of page-%F0%9F%94%BD-purple?style=for-the-badge" alt="Go to top of page">
+    <img src="https://img.shields.io/badge/Go to top of page 🔼-purple?style=for-the-badge" alt="Go to top of page">
   </a>
 </p>
