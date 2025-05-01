@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#bb86fc;">🫐 NATRIX 👾</h1>
 <p align="center" style="color:#d0aaff;">Developer with a passion for technology, clean code and efficiency.</p>
-<p align="right">
-  <a aling="center" href="#footer" title="Go down">
+<p align="left">
+  <a href="#footer" title="Go down">
     <img src="https://img.shields.io/badge/Go to bottom of page-%F0%9F%94%BD-purple?style=for-the-badge" alt="Go to bottom of page">
   </a>
 </p>
